@@ -81,10 +81,6 @@ All required dependencies are listed in the `requirements.txt` file. You can ins
 pip install -r requirements.txt
 ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Acknowledgements
 
 - [LIME: Local Interpretable Model-agnostic Explanations](https://github.com/marcotcr/lime)
