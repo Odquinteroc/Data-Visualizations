@@ -3,6 +3,7 @@ This is the Group Project Big Data Visualization in the lambton College
 # Stroke Prediction App
 
 Link Repository: https://github.com/Odquinteroc/Data-Visualizations
+Link Deployment: https://stroke-prediction-gmw66ndgdmxtpdqxmvf6hk.streamlit.app/
 
 ## Description
 
