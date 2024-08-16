@@ -6,6 +6,9 @@ Link Repository: https://github.com/Odquinteroc/Data-Visualizations
 
 Link Deployment: https://stroke-prediction-gmw66ndgdmxtpdqxmvf6hk.streamlit.app/
 
+Link Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOTY3YzhhN2YtMjA1OC00MjNkLTljZTUtYTZhMTk4NzlmY2MyIiwidCI6ImI2NDE3Y2QwLTFmNzMtNDQ3MS05YTM5LTIwOTUzODIyYTM0YSIsImMiOjN9
+
+
 ## Description
 
 This application predicts the likelihood of a stroke based on various input features such as age, hypertension, heart disease, and more. The prediction is generated using five machine learning models: Logistic Regression, Naive Bayes, SVM, Decision Tree, and Random Forest. The application also includes interpretability features using **LIME** to explain the predictions made by each model.
