@@ -2,6 +2,8 @@ This is the Group Project Big Data Visualization in the lambton College
 
 # Stroke Prediction App
 
+Link Repository: https://github.com/Odquinteroc/Data-Visualizations
+
 ## Description
 
 This application predicts the likelihood of a stroke based on various input features such as age, hypertension, heart disease, and more. The prediction is generated using five machine learning models: Logistic Regression, Naive Bayes, SVM, Decision Tree, and Random Forest. The application also includes interpretability features using **LIME** to explain the predictions made by each model.
